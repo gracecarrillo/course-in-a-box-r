@@ -37,14 +37,18 @@ In this crash course, we will start from the very beginning, with basic arithmet
   - Regression Modeling
   - Classification Modeling
 
-## Get the most out of this course
+## Get the most out of this crash course
 
 This course is part of your Professional/Researcher Development Plan. Which means, all of this is to advance your career! And while there are important fundamental data science skills that you will learn from this crash course, you will also work in other soft skills, such as your grit and tenacity in completing challenging material. 
 
-If you’re stuck on something, don’t let your frustration boil over and don’t give up! I strongly encourage you to organise study groups with your colleages to complete the final mini-project. A lot of extra online resources will be provided to you. And also, remeber you can always drop me an email at [graciela.carrillo@kaplan.com](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans).
+If you’re stuck on something, don’t let your frustration boil over and don’t give up! Join the intro course slack channel to both ask and answer questions. To do this, click on the **Join the Discussion** section! I strongly encourage you to organise study groups with your colleages to complete the final mini-project. A lot of extra online resources will be provided to you. And also, remeber you can always drop me an email at [graciela.carrillo@kaplan.com](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans).
 
 **Pay attention and follow along in your own Google Colab document.** (I'll explain how to set it put in a different page). Not only will this provide you with valuable notes to refer back to after the course, (useful during assignments) but the active nature of typing along will help you retain the information better.
 
 **Complete all assignment exercises.** The assignments are similar to the lecture content but differ in ways that will help stretch your brain and force you to think for yourself rather than copying someone else’s code.
 
-**Be involved in both asking questions and helping to answer the questions of your fellow students.** There is no better way to solidify your understanding of a concept than to explain it to someone else. Assignments are open-book, open-neighbor, open-internet, etc. Be resourceful!
+**Be involved in both asking questions and helping to answer the questions of your fellow students.** There is no better way to solidify your understanding of a concept than to explain it to someone else. Assignments are open-book, open-neighbour, open-internet, etc. Be resourceful!
+
+Most of all, have fun! 
+
+Grace
