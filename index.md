@@ -3,26 +3,48 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## Crash Course Python for Data Science
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
+Python is a powerful programming language used for many different applications. But a huge community around this open source language has created quite a few tools to efficiently work with Python for Data Science. Python is becoming the laguage of choice of anyone interested in analysing data.
 
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
+In this crash course, we will start from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. We'll learn about Python functions and control flow. Plus, we'll look at the world of data visualizations with Python and create our own stunning visualizations based on real data.
 
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+### What you'll learn
 
+- **Welcome to Python!**
+  - Why Python?
+  - Math with Python
+  - Python Variables and Data Types
+  - Python Lists
+  - Python For Loops
+  - Python If Statements
+  - Python Functions and Packages
+  - Intro to NumPy
 
-Here are some recent courses that have been built with Course in a Box:
+- **Quick Pandas**
+  - Why Pandas?
+  - Loading Data
+  - Indexing and Subsetting Dataframes
+  - Cleaning Data
+  - Basic Visualizations
+  
+- **Stats refresher**
+  - Why Statistics?
+  - Descriptive Statistics 1
+  - Descriptive Statistics 2
+ 
+ - **Predictive Modelling**
+  - Regression Modeling
+  - Classification Modeling
 
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
+## Get the most out of this course
 
+This course is part of your Professional/Researcher Development Plan. Which means, all of this is to advance your career! And while there are important fundamental data science skills that you will learn from this crash course, you will also work in other soft skills, such as your grit and tenacity in completing challenging material. 
 
-## Reach new audiences
+If you’re stuck on something, don’t let your frustration boil over and don’t give up! I strongly encourage you to organise study groups with your colleages to complete the final mini-project. A lot of extra online resources will be provided to you. And also, remeber you can always drop me an email at [graciela.carrillo@kaplan.com](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans).
 
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
+**Pay attention and follow along in your own Google Colab document.** (I'll explain how to set it put in a different page). Not only will this provide you with valuable notes to refer back to after the course, (useful during assignments) but the active nature of typing along will help you retain the information better.
 
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
+**Complete all assignment exercises.** The assignments are similar to the lecture content but differ in ways that will help stretch your brain and force you to think for yourself rather than copying someone else’s code.
 
-
+**Be involved in both asking questions and helping to answer the questions of your fellow students.** There is no better way to solidify your understanding of a concept than to explain it to someone else. Assignments are open-book, open-neighbor, open-internet, etc. Be resourceful!
