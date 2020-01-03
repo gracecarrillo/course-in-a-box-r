@@ -30,6 +30,7 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-jumbotron_color: "#cf1302"
+# University of Glasgow blue #003865
+jumbotron_color: "#003865"
 jumbotron_background_image: "header.svg"
-jumbotron_image: "box-icon.png"
+jumbotron_image: "kaplan.png"
