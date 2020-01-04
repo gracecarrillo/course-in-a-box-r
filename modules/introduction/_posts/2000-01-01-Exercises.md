@@ -11,8 +11,8 @@ Open up the exercises (link will be provided) and make a copy of it to your Goog
 
 <b> How to make a copy of the exercise notebook to your personal Google Drive account:</b>
 <br>
-1) Open the _Exercise_ at the view-only exercise link.<br>
-2) Go to _File_ then from the drop-down menu select _Save a copy in Drive_
+1) Open the <i>Exercise</i> at the view-only exercise link.<br>
+2) Go to <i>File</i> then from the drop-down menu select <i>Save a copy in Drive</i>.
 <br>
 <p align="justify">
 This will create a copy of the notebook in your personal Google Drive account. You can be sure that you have done this correctly if you see "Copy of" prepended to the title of the new notebook.
