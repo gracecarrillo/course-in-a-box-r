@@ -76,11 +76,13 @@ Follow the workshop notes with me and complete the exercises after this course, 
 ### Python Functions and Packages
 
 [CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1r2hqFvI4DRrakgK4_vG7gSWZvwzqZMMd)
+
 [CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1SpT5Td4Fj3oXqVkvDLTLHUR3-WKrazjY)
 
 ### Intro to NumPy
 
 [CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1Cfsqtlc8mCbRCuVXDYgTdFIURBQrx9Ym)
+
 [CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1AG8OBUnY2awuXpZhUrDSnail5ate2fda)
 
 
