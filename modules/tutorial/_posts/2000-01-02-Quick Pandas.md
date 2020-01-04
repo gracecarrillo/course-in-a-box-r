@@ -1,5 +1,5 @@
 ---
-title: Intro to Pandas
+title: Quick Pandas
 ---
 
 ## Why Pandas?
