@@ -5,7 +5,7 @@ This course is part of your Professional/Researcher Development Plan. Which mean
 <p/>
 
 <p align="justify">
-If you’re stuck on something, don’t let your frustration boil over and don’t give up! Join the intro course slack channel to both ask and answer questions. To do this, click on the <b>Join the Discussion section!</b> I strongly encourage you to organise study groups with your colleages to complete the final mini-project. A lot of extra online resources will be provided to you. And also, remember you can always drop me an email.
+If you’re stuck on something, don’t let your frustration boil over and don’t give up! Join the intro course slack channel to both ask and answer questions. To do this, click on the <b>Join the Discussion section!</b> I strongly encourage you to organise study groups with your colleages to complete the final mini-project (the last exercise). A lot of extra online resources will be provided to you. And also, remember you can always drop me an email.
 <p/>
 
 <p align="justify">
