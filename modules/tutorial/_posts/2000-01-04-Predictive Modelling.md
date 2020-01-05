@@ -2,56 +2,53 @@
 title: Predictive Modelling
 ---
 
-# Sections
+# What is predictive modeling?
 
-Sections are where the actual content for you course lives. Together they make up a bunch of modules and the modules together is what makes your course.
+![Predictive Modelling Phases]({{site.baseurl}}/img/Predictive-Modelling-Phases.jpg)
+Image [Source](https://www.researchgate.net/profile/Jayson_Victoriano/publication/328216741/figure/fig1/AS:748458000527364@1555457701530/Predictive-Modelling-Phases_W640.jpg)
 
-What content you put in your sections is up to you, it can be mostly textual, a tutorial like this section, a video, a project, or anything you'd like to use in your course.
+### Predictive modeling is a process that uses *data* and *statistics* to predict outcomes with data models. 
 
-## Add Content to Your Course
 
-To add content, you need to create a section in a module. You can do so the same way you created a test section inside the introduction module before. Go to the folder for the module ex. [https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/introduction/_posts](https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/introduction/_posts) and create a new file for every section that you want within the module.
+Often used interchangeably:
 
-While adding the test section to the introduction module, you maybe have noticed that we called the last part of the file name was `2000-01-01-test.md` and not simply `test`. When you add sections, you need to make sure that the file name starts with a valid date in the format `YYYY-MM-DD`. The actual date you use doesn't matter, bu it will be used to determine the order of the sections inside your module.
+- Predictive analytics: More like commercial applications of predictive modeling.
+- Predictive modeling: Used more generally or academically. 
+- Machine learning: Use of statistical techniques to allow a computer to construct predictive models.
 
-After the date, you should put the section name and finally, you should append `.md` to the end of the file name so that to format for the full file name is `YYYY-MM-DD-your-section-name.md`.
 
-Content will show up automatically as soon as you commit and save (booyah!). To check how your spiffy content looks, you can go to [http://your-github-username.github.io/course-in-a-box/](http://your-github-username.github.io/course-in-a-box/) to look at it.
+We as **data scientists** perform all these heavy-lifting of data by instructing computers step by step. But we can teach the computers to build and perfect models on their own.
 
-## Editing content
+### So the art of teaching the machines to learn from past data, their statistics and the probabilities of the recurrence, is known as **Machine Learning**.
 
-There are two important parts to your content. First is what is called the 'front matter' This is a fancy way to describe some extra data that will be used to display your section.
 
-Have a look at this section [https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/setup/_posts/2000-01-04-content.md](https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/setup/_posts/2000-01-04-content.md)
+![Image of statistics]({{site.baseurl}}/img/machine_learning.png) 
+Image [Source](https://xkcd.com/1838/)
 
-If you edit that file, you'll notice
 
-{% highlight yaml %}
----
-title: Sections
----
-{% endhighlight %}
+Machine learning models typically fall into two categories: **supervised learning** and **unsupervised learning**. 
 
-at the top. You can update the title to change the title displayed in the sidebar when viewing the section.
+**Classification** and **regression** algorithms are two types of **supervised learning**.
 
-Secondly, you'll notice the text for this section below that:
+![Image of statistics]({{site.baseurl}}/img/regression_classification.png)
+Image [Source](https://miro.medium.com/max/1163/1*Qn4eJPhkvrEQ62CtmydLZw.png)
 
-{% highlight yaml %}
-# Sections
 
-Sections are where the actual content for you course lives. Together they make up a bunch of modules and the modules together is what makes your course.
-
-What content you put in your sections is up to you, it can be mostly textual, a tutorial like this section, a video, a project, or anything you'd like to use in your course.
-
-## Add Content to Your Course
-
-To add content, you need to create a section in a module. You can do so the same way you created a test section inside the introduction module before. Go to the folder for the module ex. [https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/introduction/_posts](https://github.com/your-github-username/course-in-a-box/tree/gh-pages/modules/introduction/_posts) and create a new file for every section that you want within the module.
-{% endhighlight %}
-
-While the text should be more or less, readable, you will notice some characters that you don't see on this page. That is because you will use Markdown to write the content for your course.
-
-Markdown is simple way to easily write content that can be turned into formatted and styled HTML. There are many resources online explaining how to you Markdown and there is a [Markdown cheatsheet]({{site.baseurl}}/modules/references/markdown-cheatsheet/) in the resources section to help you get started quickly.
+These are the two techniques we will be looking at in this course. 
 
 ## The hard work begins
 
-Now that you've covered the basic of using course in a box, the hard work of creating your course begins! We have some advice in the resources section to help you design you course and you can consult the references section if you get stuck anywhere.
+### Regression modelling
+
+[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1glddI-zq0a9JrFxcg5PfgN9-j-6zD0eP)
+
+[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1PkDcF11JgPDakeq-McMz17IbyH6pR3Qd)
+
+### Classification modelling
+
+[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1xBGN8rJOXR_cQEzuI8xId_4mq8hKlxZT)
+
+[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1SnfpntEbji3cVxvNDeLVZxoWIh9LmnNV)
+
+
+
