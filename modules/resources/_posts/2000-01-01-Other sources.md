@@ -3,7 +3,7 @@ title: Other sources
 published: true
 ---
 
-# FREE PYTHON RESOURCES AND TUTORIALS:
+# Free Python resources and tutorials:
 
 <br><br>
 
