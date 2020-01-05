@@ -14,12 +14,12 @@ Image [Source](https://towardsdatascience.com/introduction-to-statistics-e9d72d8
 - We are just going to refresh a bit of this quantitative approach called **Statistics**.
 - Statistics is part of the art of unraveling the secrets hidden inside data.
 
-## "A Data Scientist is one who knows more statistics than a programmer and more programming than a statistician".
+### "A Data Scientist is one who knows more statistics than a programmer and more programming than a statistician".
 
 ![Image of Data Science]({{site.baseurl}}/img/Data_Science.png)
 Image [Source](https://www.rss.org.uk/RSS/Get_involved/Statistic_of_the_year/RSS/Get_involved/Statistic_of_the_Year_.aspx).
 
-## A data scientists solves problems 
+### A data scientists solves problems 
 
 - We define a problem statement (**By asking the right questions**)
 - We then collect the **right kind** of data to perform our analysis
