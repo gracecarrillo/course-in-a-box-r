@@ -37,7 +37,9 @@ Image [Source](https://www.rss.org.uk/RSS/Get_involved/Statistic_of_the_year/RSS
 
 ### Descriptive Statistics 2
 
-[CLICK HERE FOR THE WORKSHOP NOTES]
+[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1na_McqtskKOjo0avqBXewVl-YIhIghYZ)
 
-[CLICK HERE FOR THE EXERCISE]
+[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1aZTCamI8BVVZLOpRkVwUWZ_VQ6oriq3n)
+
+
 
