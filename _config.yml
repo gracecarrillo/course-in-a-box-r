@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /course-in-a-box-r
 markdown: kramdown
 permalink: /:categories/:title/
 
@@ -30,6 +30,6 @@ prose:
 
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
-# University of Glasgow blue #003865
-jumbotron_color: "#003865"
+# Red #F92828
+jumbotron_color: "#f92828"
 jumbotron_background_image: "header.svg"
