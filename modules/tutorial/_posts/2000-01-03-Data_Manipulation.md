@@ -1,7 +1,10 @@
 ---
-title: Stats Refresher
+title: Data Manipulation
 published: true
 ---
+# First a reminder: 
+
+<br>
 
 # Why Statistics
 
@@ -27,19 +30,11 @@ Image [Source](https://www.rss.org.uk/RSS/Get_involved/Statistic_of_the_year/RSS
 - We employ various techniques to derive inferences from the data or to predict some answers for the problem statement.
 - Finally, we check if our inferences/predictions are fairly accurate (of course by scientific methods!)
 
-## Let's start with the Stats refresher!
+## Let's start with data manipulation!
 
-### Descriptive Statistics 1
+### Data Manipulation
 
 [CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1js-IGkG4eZZP-DXCdULSTrIpbodE6Uk7)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1CBuUdyQVLRWDtbRMGONHIdeu7XMSAb5V)
-
-### Descriptive Statistics 2
-
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1na_McqtskKOjo0avqBXewVl-YIhIghYZ)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1aZTCamI8BVVZLOpRkVwUWZ_VQ6oriq3n)
 
 
 
