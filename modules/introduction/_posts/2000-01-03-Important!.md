@@ -5,13 +5,13 @@ This course is part of your Professional/Researcher Development Plan. Which mean
 <p/>
 
 <p align="justify">
-If you’re stuck on something, don’t let your frustration boil over and don’t give up! Join the intro course slack channel to both ask and answer questions. To do this, click on the <b>Join the Discussion section!</b> I strongly encourage you to organise study groups with your colleages to complete the final mini-project (the last exercise). A lot of extra online resources will be provided to you. And also, remember you can always drop me an email.
+If you’re stuck on something, don’t let your frustration boil over and don’t give up! Join the intro course slack channel to both ask and answer questions. To do this, click on the <b>Join the Discussion section!</b> I strongly encourage you to organise study groups with your colleages to complete the final mini-project. A lot of extra online resources will be provided to you. And also, remember you can always drop me an email.
 <p/>
 
 <p align="justify">
-- <b>Pay attention and follow along in your own Google Colab document.</b> (I'll explain how to set it put in a different page). Not only will this provide you with valuable notes to refer back to after the course, (useful during assignments) but the active nature of typing along will help you retain the information better.
+- <b>Pay attention and follow along in your own Google Colab document.</b> (I'll explain how to set it put in a different page). Not only will this provide you with valuable notes to refer back to after the course, (useful for your final mini-project) but the active nature of typing along will help you retain the information better.
 <br>
-- <b>Complete all assignment exercises.</b> The assignments are similar to the lecture content but differ in ways that will help stretch your brain and force you to think for yourself rather than copying someone else’s code.
+- <b>Complete the mini-project.</b> The assignments are similar to the lecture content but differ in ways that will help stretch your brain and force you to think for yourself rather than copying someone else’s code.
 <br>
 - <b>Be involved in both asking questions and helping to answer the questions of your fellow students.</b> There is no better way to solidify your understanding of a concept than to explain it to someone else. Assignments are open-book, open-neighbour, open-internet, etc. Be resourceful!
 </p>
