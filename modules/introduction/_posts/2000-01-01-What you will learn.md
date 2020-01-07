@@ -1,26 +1,25 @@
 ### What you'll learn
 
-- **Welcome to Python!**
-  - Why Python?
-  - Python Variables and Data Types
-  - Python Lists
-  - Python For Loops
-  - Python If Statements
-  - Python Functions and Packages
-  - Intro to NumPy
+- **Welcome to R!**
+  - Why R?
+  - Data Types and Objects in R
+  - Control Structures (Functions) in R
+  - Useful R Packages
 
-- **Quick Pandas**
-  - Why Pandas?
-  - Loading Data
-  - Indexing and Subsetting Dataframes
-  - Cleaning Data
-  - Basic Visualizations
+- **Exploratory Data Analysis in R**
+  - Basic Graphs
+  - Treating Missing values
+  - Working with Continuous and Categorical Variables
   
 - **Stats refresher**
   - Why Statistics?
-  - Descriptive Statistics 1
-  - Descriptive Statistics 2
+  - Summary Statistics
+  
+- **Data Manipulation in R**
+  - Feature Engineering
+  - Label Encoding / One Hot Encoding
  
 - **Predictive Modelling**
   - Regression Modeling
   - Classification Modeling
+
