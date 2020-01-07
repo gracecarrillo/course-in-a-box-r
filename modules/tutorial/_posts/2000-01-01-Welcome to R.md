@@ -4,6 +4,10 @@ title: Welcome to Python!
 
 # Why R? 
 
+![](https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png)
+
+<br>
+
 - The style of coding is quite easy.
 - It’s open source. No need to pay any subscription charges.
 - Availability of instant access to over 7800 packages customized for various computation tasks.
