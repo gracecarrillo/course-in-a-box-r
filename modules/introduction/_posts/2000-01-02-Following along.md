@@ -6,7 +6,7 @@ To begin working working with me during the workshop you will need a Google Acco
 <p/>
 
 <p align="justify">
-Open up the worksop notes (link will be provided) and make a copy of it to your Google Drive. You will be given edit permissions to the copied version in your Google Drive. Follow the instructions below to make a copy of the exercises to your Google Drive account.
+Open up the worksop notes (link will be provided) and make a copy of it to your Google Drive. You will be given edit permissions to the copied version in your Google Drive. Follow the instructions below to make a copy of the notebooks to your Google Drive account.
 <p/>
 
 <b> How to make a copy of the notebook to your personal Google Drive account:</b>
