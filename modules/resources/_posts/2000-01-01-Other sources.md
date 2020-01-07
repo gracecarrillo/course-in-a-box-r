@@ -27,7 +27,7 @@ There are a few things to remember when working with R, which when forgotten can
 
 *	**Assignment operators.** The symbol `<-` is used in R as an assignment operator -- it assigns values to names, e.g. `a <- 20` assigns the value 20 to the letter *a*. You can also use `=` as an assignment operator, but the more common symbol for assignment is `<-`. The symbol `=` is also used to give values to arguments in functions, such as `plot(1, 2, xlab="My x axis", ylab="My y axis")`. But note you cannot use `ylab <- "My y axis"`. The symbol `==` has a completely different meaning and is used for logical comparison, such as `a==20` will test whether *a* is equal to 20. You can use `help("==")` or `?"<-"` to see more.
 
-#Resources
+# Resources
 
 There is an extensive amount of resources about R on the internet, just Google "R books" and you will find plenty. Here is a list of some helpful materials:
 
