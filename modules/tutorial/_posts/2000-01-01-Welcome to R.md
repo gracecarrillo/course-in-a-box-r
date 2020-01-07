@@ -1,5 +1,5 @@
 ---
-title: Welcome to Python!
+title: Welcome to R!
 ---
 
 # Why R? 
