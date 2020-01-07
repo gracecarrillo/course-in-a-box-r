@@ -11,10 +11,6 @@
   - Treating Missing values
   - Working with Continuous and Categorical Variables
   
-- **Stats refresher**
-  - Why Statistics?
-  - Summary Statistics
-  
 - **Data Manipulation in R**
   - Feature Engineering
   - Label Encoding / One Hot Encoding
