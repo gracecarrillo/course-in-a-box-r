@@ -10,6 +10,8 @@
 
 <br><br>
 
+Find it here: <https://gracecarrillo.github.io/course-in-a-box-r/>
+
 <p align="justify">
 R is a very popular programming language for the world of data analysis, data science and statistical computing. The journey of the R language from a rudimentary text editor to the interactive R Studio, Jupyter Notebooks and more recently, Google Collaboratory notebooks, has engaged many scientists across the world.
 <br>
