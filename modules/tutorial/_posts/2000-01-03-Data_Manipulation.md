@@ -34,7 +34,7 @@ Image [Source](https://www.rss.org.uk/RSS/Get_involved/Statistic_of_the_year/RSS
 
 ### Data Manipulation
 
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1js-IGkG4eZZP-DXCdULSTrIpbodE6Uk7)
+[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1VI9AAi2CscFkFbskejhlBGB58ZUfW5Pa)
 
 
 
