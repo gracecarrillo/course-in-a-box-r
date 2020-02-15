@@ -34,21 +34,13 @@ Machine learning models typically fall into two categories: **supervised learnin
 Image [Source](https://miro.medium.com/max/1163/1*Qn4eJPhkvrEQ62CtmydLZw.png)
 
 
-These are the two techniques we will be looking at in this course. 
+In this crash course, we will look at three types of **regression** algorightms: OLS Linear Regression (which you should be already familiar to from your Statistics module!), Decision Tree Regressor and Random Forest.
 
 ## The hard work begins
 
 ### Regression modelling
 
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1glddI-zq0a9JrFxcg5PfgN9-j-6zD0eP)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1PkDcF11JgPDakeq-McMz17IbyH6pR3Qd)
-
-### Classification modelling
-
-[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1xBGN8rJOXR_cQEzuI8xId_4mq8hKlxZT)
-
-[CLICK HERE FOR THE EXERCISE](https://colab.research.google.com/drive/1SnfpntEbji3cVxvNDeLVZxoWIh9LmnNV)
+[CLICK HERE FOR THE WORKSHOP NOTES](https://colab.research.google.com/drive/1kA4OjgXhCIooRqH1i00QGkO6-WkpSORv)
 
 
 
